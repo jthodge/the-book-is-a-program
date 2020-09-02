@@ -1,0 +1,1 @@
+("7.8" racket ("e485063d4468af52bd00027cde365b2790a4b6f1" . "43f90c7f2ddb70c01c3f74fa8371f4b29182c87b") (collects #"pollen" #"main.rkt") (collects #"pollen" #"private" #"main-base.rkt") (collects #"pollen" #"private" #"runtime-config.rkt") (collects #"pollen" #"top.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))
